@@ -6,3 +6,4 @@ Adapted for Automate by [Ethan Flowerday](flowerday.io)
 - [ ] Update script to use Invoke-WebRequest instead of the [HuduAPI PowerShell Module](https://github.com/lwhitelock/HuduAPI) (requires PowerShell 7)
 - [ ] More error handling
     - [ ] Confirm password is updated successfully on workstation before uploading/replacing
+- [ ] More user customization options, see [Managed Accounts](../Managed-Account/README.md) for examples
